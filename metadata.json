@@ -1,0 +1,8 @@
+{
+  "name": "Barzok House Bot Workspace",
+  "description": "پنل توسعه، شبیه‌ساز تعاملی و مدیریت منو، اتاق‌ها و سفارش غذای ربات تلگرام اقامتگاه بومگردی خانه برزک",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

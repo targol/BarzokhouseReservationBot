@@ -1,0 +1,20 @@
+{
+  "name": "barzok-house-telegram-bot-serverless",
+  "version": "1.0.0",
+  "description": "نسخه بدون سرور (Serverless) ربات تلگرام اقامتگاه بومگردی خانه برزک ویژه زیرساخت بومی Telegram Serverless و Cloudflare/Vercel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "deploy": "npx tgcloud push",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "serverless",
+    "tgcloud",
+    "bot",
+    "barzok"
+  ],
+  "author": "Barzok House",
+  "license": "MIT"
+}
